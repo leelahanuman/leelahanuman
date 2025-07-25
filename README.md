@@ -19,6 +19,7 @@ Backend Development**: With a strong foundation in backend development, I can se
 - 👨‍💻 All of my projects are available at [https://hanumaportfolio.netlify.app/](https://hanumaportfolio.netlify.app/)
 
 - 💬 Ask me about **MernSatck**
+- 💬 Working on Shopify liquid theme customizations and new features on using jquery 
 
 - 📫 How to reach me **madasuleelahanuman@gmail.com**
 
