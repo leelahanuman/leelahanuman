@@ -1,7 +1,5 @@
 <h1 align="center">Hi there!👋, My name is Leela Hanuman.</h1>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/leelahanuman/count.svg?"  />
-</div>
+
 
 ###
 ###
