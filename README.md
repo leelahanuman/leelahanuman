@@ -14,9 +14,7 @@ Backend Development**: With a strong foundation in backend development, I can se
 
 - 👯 I’m looking to collaborate on **MERNStack**
 
-- 👨‍💻 All of my projects are available at [https://hanumaportfolio.netlify.app/](https://hanumaportfolio.netlify.app/)
-
-- 💬 Ask me about **MernSatck**
+- 💬 Ask me about **MernStack**
 - 💬 Working on Shopify liquid theme customizations and new features on using jquery 
 
 - 📫 How to reach me **madasuleelahanuman@gmail.com**
