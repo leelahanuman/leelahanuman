@@ -17,9 +17,7 @@ Backend Development**: With a strong foundation in backend development, I can se
 - 💬 Ask me about **MernStack**
 - 💬 Working on Shopify liquid theme customizations and new features on using jquery 
 
-- 📫 How to reach me **madasuleelahanuman@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ErMSkgZK6AYTYD0knPF950ycB7lxVWWF/view?usp=sharing](https://drive.google.com/file/d/1ErMSkgZK6AYTYD0knPF950ycB7lxVWWF/view?usp=sharing)
+- 📫 How to reach me **madasuleelahanuman@gmail.com*
 
 - ⚡ Fun fact **I've completed all of my work certifications ahead of schedule and am always looking for new learning opportunities.**
 
